@@ -3,6 +3,6 @@ package zoo;
 import javax.swing.JOptionPane;
 public class Zoo {
     public static void main(String[] args) {
-        
+        String nombre = JOptionPane.showInputDialog("");
     }
 }
